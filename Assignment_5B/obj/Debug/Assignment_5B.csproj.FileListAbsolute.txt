@@ -1,0 +1,7 @@
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\obj\Debug\Assignment_5B.csproj.AssemblyReference.cache
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\obj\Debug\Assignment_5B.csproj.CoreCompileInputs.cache
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\bin\Debug\Assignment_5B.exe.config
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\bin\Debug\Assignment_5B.exe
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\bin\Debug\Assignment_5B.pdb
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\obj\Debug\Assignment_5B.exe
+F:\windows-ohjelmointi\Assignment_5B\Assignment_5B\obj\Debug\Assignment_5B.pdb
